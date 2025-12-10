@@ -5,3 +5,4 @@ A demonstration of different ways to collect data for Machine Learning
 
 Implementation of Linear Regression without using library function
 
+Implementation of Multiple Regression without using library function
